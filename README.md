@@ -1,2 +1,0 @@
-# prokectabr
-ejercicios
